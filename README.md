@@ -108,4 +108,5 @@ a custom insert query.I will see if this can be done without using custom query.
 - [ ] Add database migration
 - [ ] Implement secured authentication in middleware.
 - [ ] Add Doctrine Second Level Cache
+- [ ] Upgrade Slim to version 4
 - [ ] Update README.md after all todos with further improvements
