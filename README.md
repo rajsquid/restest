@@ -95,7 +95,7 @@ composer test-domain
 composer test-infrastructure
 ``` 
 
-###Further investigation
+### Further investigation
 
 - While I was trying to insert two foreign keys in a table, the slim was accepting the first one. So I had to write 
 a custom insert query.I will see if this can be done without using custom query.

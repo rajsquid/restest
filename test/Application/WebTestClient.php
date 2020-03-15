@@ -39,8 +39,6 @@ class WebTestClient
         $options = [
             'REQUEST_METHOD' => $method,
             'REQUEST_URI' => $path,
-            //'SERVER_NAME' => 'fradoos.local',
-            //'HTTP_HOST' => 'fradoos.local'
         ];
 
         if ($method === 'GET') {
