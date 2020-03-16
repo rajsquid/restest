@@ -5,7 +5,7 @@ This project follow [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) ap
 
 I have used [Slim Framework](https://www.slimframework.com/) in this example.
 
-####Pre-requisites
+#### Pre-requisites
 PHP, mysql and composer installed. 
 
 #### Dependencies
